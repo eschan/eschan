@@ -1,6 +1,6 @@
 # Hi, Thanks for stopping by! 👋
 
-I'm a Software Engineer based in Los Angeles, CA (actually a city 35 miles east, [Claremont](https://en.wikipedia.org/wiki/Claremont,_California)).
+I'm a Software Engineer based in Los Angeles, CA (actually a city 35 miles east, [Claremont](https://en.wikipedia.org/wiki/Claremont,_California)).  Currently VP of Product Engineering @ [Second Spectrum](https://www.secondspectrum.com).
 
 ## Intresting Fact
 I always introduce myself as `Edward`, but everyone ends up calling me `Ed`. 
