@@ -32,4 +32,3 @@ I always introduce myself as `Edward`, but everyone ends up calling me `Ed`.
 * 📸 [@eschan](https://www.instagram.com/eschan)
 * 🐣 [@eschan](https://www.twitter.com/eschan)
 * 🔗 [@edwardschan](https://www.linkedin.com/in/edwardschan/)
-* 📪 [edwardschan@gmail.com](mailto:edwardschan@gmail.com)
